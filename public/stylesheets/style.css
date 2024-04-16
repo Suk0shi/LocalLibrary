@@ -3,3 +3,16 @@
   padding: 0;
   list-style: none;
 }
+
+* {
+  color: rgb(254, 250, 224);
+}
+
+body {
+  background-color: rgb(96, 108, 56);
+  padding: 40px;
+}
+
+body a {
+  color: rgb(221, 161, 94);
+}
